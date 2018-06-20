@@ -1,4 +1,4 @@
-#Installing Fuse EAP on OpenShift
+# Installing Fuse EAP on OpenShift
 
 ### Prerequisites
 
