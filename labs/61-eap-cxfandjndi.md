@@ -50,7 +50,7 @@ Under Project Explorer, right click on it and choose "New" -> "Project"
 
 Camel CDI automatically deploys and configures a CamelContext bean. That CamelContext bean is automatically instantiated, configured and started when the CDI container initializes. 
 
-###Auto-detecting Camel routes
+### Auto-detecting Camel routes
 
 Camel CDI automatically collects all the RoutesBuilder beans in the application, instantiates and add them to the CamelContext bean instance when the CDI container initializes. The wildfly camel extension will scan the project and load files ends with ***-camel-context.xml***,a deployment may contain multiple -camel-context.xml files.
 (http://wildfly-extras.github.io/wildfly-camel/#_features)
