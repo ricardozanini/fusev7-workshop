@@ -1,4 +1,4 @@
-#Introducing CDI, CXF and JNDI in EAP
+# Introducing CDI, CXF and JNDI in EAP
 
 One of the nice features of the Camel subsystem is that it takes care of bootstrapping Spring for you.
 
